@@ -1,3 +1,4 @@
+# KR2: Вацурова
 import os
 import socket
 
